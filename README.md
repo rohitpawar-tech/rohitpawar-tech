@@ -1,74 +1,59 @@
-<p align="center">
-  <img src="banner.png" width="100%" />
-</p>
+<p align="center"> <img src="banner.png" width="100%" /> </p> <h1 align="center">Rohit Pawar</h1> <h3 align="center">Software Developer | Python | AI/ML | Backend Engineering</h3>
+Software Developer specializing in Python and backend systems with a strong interest in Artificial Intelligence and Machine Learning. Experienced in building scalable Flask-based applications and deploying intelligent, data-driven solutions. Focused on writing clean, maintainable code and designing structured system architectures.
 
-<h1 align="center">Hi 👋, I'm Rohit Pawar</h1>
-<h3 align="center">Softwere Devloper Python Developer | AI/ML Enthusiast | Flask Backend Developer</h3>
+Professional Summary
+I believe in building real-world systems — not just projects — and continuously improving through practical development and problem solving.
 
-<p align="center">
-<img width="864" height="889" alt="Gemini_Generated_Image_d7f12dd7f12dd7f1" src="https://github.com/user-attachments/assets/08e32d2b-cecd-47c0-a014-f6a834c42bde" />
+Core Expertise
 
-.png" width="180" style="border-radius:50%" />
-</p>
+• Backend Development with Flask & FastAPI
+• Machine Learning Model Development & Integration
+• REST API Design & Testing
+• Database Design (MySQL)
+• Data Processing & Analysis
+• Clean Architecture & Modular Code Design
 
----
+echnical Stack
 
-## 🚀 About Me
+Languages & Frameworks
+Python (Flask, FastAPI)
+Scikit-learn, Pandas, NumPy
+HTML, CSS
+MySQL
 
-- 💻 Passionate about building real-world AI & ML applications  
-- 🔥 Focused on Flask-based backend systems  
-- 📊 Interested in intelligent, data-driven systems  
-- 🎯 Consistently improving DSA & backend architecture  
-- 🚀 Goal: Become a strong Software Engineer  
+Tools & Platforms
+Git & GitHub
+Linux
+Postman
+VS Code
 
----
+Featured Projects
+MindScan AI
 
-## 🧠 Tech Stack
+AI-powered mental health analysis system built using Machine Learning and Flask. Designed with modular backend architecture and structured model integration.
 
-### 👨‍💻 Languages & Frameworks
-- Python (Flask, FastAPI)
-- Machine Learning (Scikit-learn, Pandas, NumPy)
-- HTML, CSS
-- MySQL
+Movie Genre Classification
 
-### 🛠 Tools & Platforms
-- Git & GitHub
-- VS Code
-- Linux
-- Postman
+Text classification system using TF-IDF and Naive Bayes for accurate movie genre prediction.
 
----
+Credit Card Fraud Detection
 
-## 🔥 Featured Projects
+Machine Learning model for detecting fraudulent financial transactions using real-world datasets and performance evaluation techniques.
 
-### 🧠 MindScan AI  
-AI-based mental health detection system using Machine Learning and Flask.
+What I’m Currently Working On
 
-### 🎬 Movie Genre Classification  
-TF-IDF + Naive Bayes model for predicting movie genres.
+• Improving backend system architecture
+• Strengthening Data Structures & Algorithms
+• Building production-ready AI applications
+• Contributing consistently to real-world repositories
 
-### 💳 Credit Card Fraud Detection  
-Machine Learning model detecting fraudulent transactions using real-world dataset.
+GitHub Analytics
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rohitpawar-tech&show_icons=true&theme=tokyonight" /> <br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitpawar-tech&theme=tokyonight" /> </p>
 
----
+Connect With Me
 
-## 📈 GitHub Stats
+LinkedIn: https://www.linkedin.com/in/rohit-pawar-54132a246
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohitpawar-tech&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitpawar-tech&theme=tokyonight" />
-</p>
+Email: pawarrohit.x@gmail.com
 
----
-
-## 🌐 Connect With Me
-
-- 💼 LinkedIn:https://www.linkedin.com/in/rohit-pawar-54132a246/?skipRedirect=true
-- 📧 Email: pawarrohit.x@gmail.com 
-- Portfolio:https://portfolio-x8oy-edfv2opu6-rohit-pawar-s-projects.vercel.app/
-
----
-
-## ⚡ Fun Fact
-I don’t just write code — I build systems that solve real problems.
+Portfolio: https://portfolio-x8oy-edfv2opu6-rohit-pawar-s-projects.vercel.app/
