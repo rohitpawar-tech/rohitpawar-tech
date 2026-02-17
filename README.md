@@ -6,7 +6,8 @@
 <h3 align="center">Softwere Devloper Python Developer | AI/ML Enthusiast | Flask Backend Developer</h3>
 
 <p align="center">
-  <img src="profile.png" width="180" style="border-radius:50%" />
+  <img src="<img width="864" height="889" alt="Gemini_Generated_Image_d7f12dd7f12dd7f1" src="https://github.com/user-attachments/assets/1c065b39-4be1-464e-a11d-8beaecd6bb52" />
+.png" width="180" style="border-radius:50%" />
 </p>
 
 ---
