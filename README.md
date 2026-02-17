@@ -6,7 +6,8 @@
 <h3 align="center">Softwere Devloper Python Developer | AI/ML Enthusiast | Flask Backend Developer</h3>
 
 <p align="center">
-  <img src="<img width="864" height="889" alt="Gemini_Generated_Image_d7f12dd7f12dd7f1" src="https://github.com/user-attachments/assets/1c065b39-4be1-464e-a11d-8beaecd6bb52" />
+<img width="864" height="889" alt="Gemini_Generated_Image_d7f12dd7f12dd7f1" src="https://github.com/user-attachments/assets/08e32d2b-cecd-47c0-a014-f6a834c42bde" />
+
 .png" width="180" style="border-radius:50%" />
 </p>
 
