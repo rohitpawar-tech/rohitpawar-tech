@@ -1,4 +1,5 @@
-<p align="center"> <img src="banner.png" width="100%" /> </p> <h1 align="center">Rohit Pawar</h1> <h3 align="center">Software Developer | Python | AI/ML | Backend Engineering</h3>
+<p align="center"> <img src="<img width="864" height="889" alt="Gemini_Generated_Image_d7f12dd7f12dd7f1" src="https://github.com/user-attachments/assets/a458e767-148b-4483-ba3f-0684d099a004" />
+" width="100%" /> </p> <h1 align="center">Rohit Pawar</h1> <h3 align="center">Software Developer | Python | AI/ML | Backend Engineering</h3>
 Software Developer specializing in Python and backend systems with a strong interest in Artificial Intelligence and Machine Learning. Experienced in building scalable Flask-based applications and deploying intelligent, data-driven solutions. Focused on writing clean, maintainable code and designing structured system architectures.
 
 Professional Summary
