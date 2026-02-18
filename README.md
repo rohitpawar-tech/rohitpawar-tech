@@ -9,7 +9,7 @@
 
 ## Executive Summary
 
-AI Systems Engineer specializing in scalable backend architecture and intelligent data-driven applications. I design and build production-grade systems that combine clean software engineering principles with machine learning integration.
+AI Systems Engineer specializing in scalable backend architecture and intelligent data-driven applications. I design and build production-grade systems that combine clean software engineering principles with machine learning integration..
 
 My expertise lies in transforming complex problems into structured, modular, and scalable backend solutions. I focus on writing maintainable code, engineering extensible architectures, and deploying ML-powered services that are reliable in real-world environments.
 
