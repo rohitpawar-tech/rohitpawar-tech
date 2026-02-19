@@ -13,7 +13,7 @@ AI Systems Engineer specializing in scalable backend architecture and intelligen
 
 My expertise lies in transforming complex problems into structured, modular, and scalable backend solutions. I focus on writing maintainable code, engineering extensible architectures, and deploying ML-powered services that are reliable in real-world environments..
 
-I don’t build academic demos — I engineer systems designed for impact, scalability, and long-term evolution.
+I don’t build academic demos — I engineer systems designed for impact, scalability, and long-term evolution..
 
 ---
 
