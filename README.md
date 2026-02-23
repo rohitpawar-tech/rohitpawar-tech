@@ -109,7 +109,7 @@ Machine learning-based fraud detection system designed using real-world financia
 • Enterprise-Grade AI Application Development
 • Data Structures & Algorithms Mastery
 • High-Impact Open Source Contributions
-• Building Scalable, Product-Ready Technology
+• Building Scalable, Product-Ready Technologys
 
 ---
 
