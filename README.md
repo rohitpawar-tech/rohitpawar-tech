@@ -35,7 +35,7 @@ I don’t build academic demos — I engineer systems designed for impact, scala
 ## Technical Stack
 
 **Core Language:**
-Python
+Python | CPP | JAVA | JAVASCRIPT
 
 **Backend Frameworks:**
 Flask, FastAPI
@@ -44,7 +44,9 @@ Flask, FastAPI
 Scikit-learn, Pandas, NumPy
 
 **Database Systems:**
-MySQL
+MySQL | PostgreSQL | MySQL |PostgreSQL |Oracle Database |SQLite |MongoDB
+
+
 
 **Web Technologies:**
 HTML, CSS
