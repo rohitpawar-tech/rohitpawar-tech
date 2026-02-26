@@ -11,19 +11,32 @@ Backend Engineer specializing in the intersection of **scalable API architecture
 
 ---
 
-## Technical Leadership & Capabilities
 
-• Scalable Backend Architecture (Flask, FastAPI)
-• AI/ML Model Development, Validation & Deployment
-• RESTful API Engineering & Service-Oriented Systems
-• Database Design, Optimization & Query Performance (MySQL)
-• Data Processing Pipelines & Feature Engineering
-• Clean Architecture & Modular Codebase Structuring
-• Production-Level Error Handling & Logging
-• Model Performance Optimization & Evaluation Metrics
-• Version Control & Structured Git Workflow
-• System Design Thinking & Algorithmic Problem Solving
+## Core Engineering Strengths
+*   **API Architecture:** Designing **stateless, scalable RESTful services** using FastAPI and Flask.
+*   **ML Integration:** Embedding trained models (**Scikit-learn, NumPy**) into backend inference pipelines.
+*   **Data Engineering:** Structuring data ingestion, **preprocessing pipelines**, and feature storage.
+*   **System Design:** Applying **Clean Architecture principles** to decouple business logic from infrastructure.
+*   **Performance Mindset:** Optimizing **database queries** and model inference latency for production environments.
 
+## Technical Stack
+
+**Languages & Runtimes:**
+**Python**, C++, Java, JavaScript
+
+**Backend Frameworks:**
+**FastAPI**, Flask
+
+**Machine Learning & Data Science:**
+**Scikit-learn**, Pandas, NumPy
+
+**Databases & Storage:**
+**PostgreSQL**, MySQL, MongoDB, SQLite, Oracle
+
+**Development & Infrastructure:**
+**Linux**, Git/GitHub, Postman, VS Code
+
+---
 ---
 
 ## Technical Stack
