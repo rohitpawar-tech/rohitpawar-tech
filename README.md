@@ -212,9 +212,9 @@ I am ready to contribute to **Product Companies** and **Scale-ups** that require
 
 I am always open to discussing **System Design**, **Backend Architecture**, and **AI Integration**.
 
-*   **GitHub:** https://github.com/rohitpawar-tech
-*   **LinkedIn:** https://www.linkedin.com/in/rohit-pawar-54132a246/
-*   **Email:** pawarrohit.x@gmail.com
+   **GitHub:** https://github.com/rohitpawar-tech
+  **LinkedIn:** https://www.linkedin.com/in/rohit-pawar-54132a246/
+  **Email:** pawarrohit.x@gmail.com
 
 ***
 
