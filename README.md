@@ -1,16 +1,12 @@
 
----
+
+***
 
 # Rohit Pawar
-
 **AI Backend Engineer | Systems Architect | Python Developer**
 
----
 ## Executive Summary
 Backend Engineer specializing in the intersection of **scalable API architecture** and **machine learning integration**. I focus on bridging the gap between data science prototypes and **production-grade software systems**. My core competency lies in designing robust backend services (**FastAPI, Flask**) that can reliably execute ML models, handle complex data pipelines, and maintain performance under load. I am committed to writing **clean, modular code** that prioritizes system longevity, maintainability, and real-world applicability.
-
----
-
 
 ## Core Engineering Strengths
 *   **API Architecture:** Designing **stateless, scalable RESTful services** using FastAPI and Flask.
@@ -37,94 +33,46 @@ Backend Engineer specializing in the intersection of **scalable API architecture
 **Linux**, Git/GitHub, Postman, VS Code
 
 ---
----
-
-## Technical Stack
-
-**Core Language:**
-Python | CPP | JAVA | JAVASCRIPT
-
-**Backend Frameworks:**
-Flask, FastAPI
-
-**Machine Learning & Data:**
-Scikit-learn, Pandas, NumPy
-
-**Database Systems:**
-MySQL | PostgreSQL | MySQL |PostgreSQL |Oracle Database |SQLite |MongoDB
-
-
-
-**Web Technologies:**
-HTML, CSS
-
-**Development & Deployment Tools:**
-Git, GitHub, Linux, Postman, VS Code
-
----
 
 ## Production-Grade Projects
 
 ### MindScan AI — Intelligent Mental Health Analysis Platform
+**Role:** Lead Backend Engineer | **Tech:** Python, FastAPI, Scikit-learn
 
-A scalable AI-powered backend system for mental health pattern analysis.
-
-• Modular architecture with clean separation of concerns
-• Structured ML model integration within REST APIs
-• Prediction pipeline with preprocessing and validation
-• Maintainable backend logic for long-term scalability
-• Designed for real-world adaptability and expansion
-
----
+Designed a **scalable backend system** to serve mental health pattern analysis models. The focus was on creating a clean interface between raw user input and the predictive model.
+*   **Architecture:** Implemented a **modular design** separating data validation, preprocessing, and model inference layers to ensure maintainability.
+*   **API Design:** Built **structured REST endpoints** with strict input validation to handle unpredictable user data gracefully.
+*   **Integration:** Encapsulated the **ML pipeline** within the API service, allowing for model updates without downtime.
+*   **Outcome:** Delivered a **maintainable and extensible backend** capable of handling real-time prediction requests.
 
 ### Movie Genre Classification Engine — NLP System
+**Role:** ML Backend Engineer | **Tech:** Python, Scikit-learn, NLTK
 
-Natural Language Processing-based classification engine built using TF-IDF vectorization and Naive Bayes.
+Developed a text classification engine focused on processing and categorizing unstructured movie plot data.
+*   **Pipeline Construction:** Engineered an **end-to-end NLP pipeline** converting raw text into structured TF-IDF features.
+*   **Model Implementation:** Integrated a **Naive Bayes classifier** optimized for high-dimensional sparse data.
+*   **Optimization:** Refined the preprocessing logic to handle noise and tokenization, improving **classification reliability**.
+*   **Outcome:** A functional inference engine that transforms raw text into categorical data with **low latency**.
 
-• Text preprocessing and feature extraction
-• Optimized classification pipeline
-• Performance evaluation and accuracy validation
-• Structured model integration with backend logic
+### Credit Card Fraud Detection — Financial Risk Intelligence
+**Role:** Data Engineer & Backend Developer | **Tech:** Python, Pandas, Scikit-learn
 
----
-
-### Credit Card Fraud Detection System — Financial Risk Intelligence
-
-Machine learning-based fraud detection system designed using real-world financial transaction datasets.
-
-• Feature engineering & data balancing techniques
-• Precision, Recall, F1-score based evaluation
-• Optimized model validation pipeline
-• Reliable predictive architecture for risk analysis
+Built a risk analysis system focused on identifying anomalous patterns in financial transaction data.
+*   **Data Handling:** Addressed **class imbalance** challenges in the dataset using specific feature engineering and resampling techniques.
+*   **Model Evaluation:** Implemented a **rigorous validation framework** using Precision, Recall, and F1-scores to minimize false positives.
+*   **System Reliability:** Designed the inference logic to prioritize certainty in **high-stakes financial predictions**.
+*   **Outcome:** A robust predictive architecture capable of flagging potential fraud for further review.
 
 ---
 
 ## Engineering Philosophy
-
-• Build systems, not temporary solutions
-• Design for scalability from day one
-• Maintain clean, readable, and modular codebases
-• Prioritize architecture before feature expansion
-• Continuously improve through consistent execution
-• Focus on production-readiness and reliability
-
----
-
-## Current Strategic Focus
-
-• Advanced System Design & Backend Optimization
-• Enterprise-Grade AI Application Development
-• Data Structures & Algorithms Mastery
-• High-Impact Open Source Contributions
-• Building Scalable, Product-Ready Technologys
+I view software engineering as a discipline of trade-offs and structural integrity. My approach is defined by:
+*   **Modularity over Monoliths:** Building systems that are easy to test, debug, and extend.
+*   **Pragmatism:** Choosing the right tool for the problem rather than following trends.
+*   **Production-First Thinking:** Writing code that accounts for **logging, error handling**, and edge cases from day one.
+*   **Bridging the Gap:** Ensuring that ML models are not just accurate notebooks, but **deployable software components**.
 
 ---
 
 ## Professional Positioning
-
-Backend Architect and AI Systems Builder capable of designing intelligent platforms from concept to deployment. Focused on long-term scalability, structured engineering, and real-world impact.
-
----
-
-
-
+An **AI Backend Engineer** equipped to design and implement intelligent data-driven features. I bring a strong foundation in backend architecture combined with practical experience in **ML deployment**, making me well-suited for engineering teams looking to operationalize machine learning.
