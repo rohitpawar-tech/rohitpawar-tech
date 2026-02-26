@@ -3,7 +3,7 @@
 
 # Rohit Pawar
 
-**AI Systems Engineer | Backend Architect | Production-Ready Python Developer**
+**AI Backend Engineer | Systems Architect | Python Developer**
 
 ---
 
