@@ -124,6 +124,95 @@ Designed a **scalable backend system** capable of serving mental health pattern 
 *   Delivered a **maintainable and extensible backend** capable of handling real-time prediction requests with low latency.
 *   Established a clear pattern for future **AI feature integration**.
 
+
+---
+
+# VigilEye — Intelligent Driver Drowsiness Monitoring System
+
+**Role:** Computer Vision Engineer
+**Tech Stack:** Python, OpenCV, MediaPipe Face Mesh, NumPy, Pygame
+
+---
+
+## Project Overview
+
+VigilEye is a real-time driver monitoring system engineered to detect early signs of fatigue using geometric facial landmark analysis.
+
+The system leverages MediaPipe Face Mesh for high-precision landmark detection and applies the Eye Aspect Ratio (EAR) algorithm to determine prolonged eye closure. When unsafe thresholds are exceeded, an immediate audible alert is triggered to mitigate accident risk.
+
+Designed for CPU efficiency, portability, and low-latency inference without reliance on heavy deep learning models.
+
+---
+
+## Key Engineering Challenges
+
+* **Reliable Real-Time Detection:** Maintaining stable landmark tracking under varying lighting conditions and head movements.
+* **False Positive Reduction:** Differentiating natural blinking from prolonged drowsiness.
+* **Latency Optimization:** Ensuring continuous real-time performance using standard hardware.
+* **State Monitoring:** Tracking eye closure duration accurately across consecutive frames.
+
+---
+
+## System Architecture & Design
+
+### Facial Landmark Detection Layer
+
+* Utilized MediaPipe Face Mesh to extract 468 facial landmarks in real time.
+* Isolated specific eye landmark indices for geometric computation.
+* Maintained consistent frame-level detection accuracy on CPU.
+
+---
+
+### Eye Aspect Ratio (EAR) Algorithm
+
+* Implemented geometric EAR calculation using six eye landmarks.
+* Established configurable threshold to determine closed-eye state.
+* Designed a timer-based state machine to detect prolonged closure.
+
+---
+
+### Alert & Monitoring System
+
+* Integrated Pygame-based audio alert mechanism.
+* Designed persistent alarm loop until driver re-engagement is detected.
+* Implemented on-screen overlays displaying:
+
+  * EAR value
+  * Alert counter
+  * System status
+  * Frames per second (FPS)
+
+---
+
+### Event Logging & Configurability
+
+* Automated timestamp-based logging of drowsiness events.
+* Created configurable threshold and duration parameters via constants module.
+* Structured project into modular utilities for maintainability and scalability.
+
+---
+
+## Algorithm Workflow
+
+1. Capture webcam frame
+2. Detect face and extract landmarks
+3. Compute Eye Aspect Ratio
+4. Compare EAR against threshold
+5. Track consecutive low-EAR duration
+6. Trigger alarm if duration exceeds defined limit
+
+---
+
+## Outcome
+
+* Delivered a functional real-time fatigue detection system.
+* Demonstrated applied computer vision and geometric modeling expertise.
+* Achieved low-latency inference suitable for standard CPU environments.
+* Built a modular and extensible architecture ready for feature expansion (e.g., yawning detection, head pose estimation).
+
+---
+
+
 ---
 
 ### **Movie Genre Classification Engine — NLP System**
