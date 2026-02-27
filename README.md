@@ -151,6 +151,7 @@ Developed a high-performance **Text Classification Engine** focused on processin
 
 ---
 
+
 ### ** Credit Card Fraud Detection — Financial Risk Intelligence**
 **Role:** Data Engineer & Backend Developer  
 **Tech Stack:** Python, Pandas, Scikit-learn, Matplotlib
@@ -173,6 +174,91 @@ Built a critical **Risk Analysis System** focused on identifying anomalous patte
 *   Demonstrated ability to handle **highly imbalanced datasets** common in the financial sector.
 
 ---
+
+
+---
+
+#  **SAP-Inspired ERP System — Enterprise Business Intelligence Platform**
+
+**Role:** Full-Stack ERP Engineer
+**Tech Stack:** Python, Django, SQLite, Bootstrap, Chart.js
+
+---
+
+## **Project Overview**
+
+Engineered a modular **Enterprise Resource Planning (ERP) System** inspired by modern enterprise architectures such as **SAP S/4HANA**.
+
+The platform simulates real-world business workflows across Finance, Sales, Inventory, and HR — unified through a centralized transactional database and analytics dashboard.
+
+---
+
+## **Key Engineering Challenges**
+
+* **Cross-Module Data Consistency:** Ensuring transactions in Sales automatically impact Inventory and Finance modules.
+* **Transactional Workflow Simulation:** Designing order-to-billing and stock deduction pipelines similar to enterprise ERP systems.
+* **Real-Time KPI Aggregation:** Generating performance metrics dynamically from relational data.
+* **Scalability & Maintainability:** Structuring the project to mimic modular enterprise architecture.
+
+---
+
+## **Solutions & Architecture**
+
+### 🔹 Modular Domain-Driven Design
+
+Implemented independent Django apps for:
+
+* Finance
+* Sales & Distribution
+* Inventory Management
+* Human Resources
+
+Each module follows clean separation of concerns (Models → Services → Views → Templates).
+
+---
+
+### 🔹 Relational Data Architecture
+
+Designed normalized database schema with:
+
+* Foreign key relationships to simulate transactional dependencies
+* Optimized ORM queries for efficient aggregation
+* Centralized business logic handling financial calculations
+
+---
+
+### 🔹 Business Logic Engine
+
+* Automated revenue & expense calculations in Finance module
+* Real-time stock deduction upon order confirmation
+* Payroll and employee record management system
+* KPI computation layer for dashboard analytics
+
+---
+
+### 🔹 Analytics & Visualization Layer
+
+Integrated Chart.js to visualize:
+
+* Revenue trends
+* Sales performance
+* Inventory movement
+* Employee statistics
+
+Built dynamic dashboards with low-latency query execution.
+
+---
+
+## **Outcome**
+
+* Developed a functional ERP simulation reflecting enterprise-grade system design
+* Demonstrated understanding of modular architecture and transactional workflows
+* Built scalable backend capable of future API and AI integration
+* Portfolio-ready enterprise-style application
+
+---
+
+
 
 ## **Engineering Philosophy**
 
