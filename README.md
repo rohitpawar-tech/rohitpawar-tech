@@ -1,398 +1,208 @@
-
-
-***
-
-<br>
+```markdown
 <div align="center">
 
-# **Rohit Pawar**
-### **AI Backend Engineer | Systems Architect | Production-Ready Python Developer**
+  <!-- Animated Banner -->
+  <img src="https://capsule-render.vercel.app/api?text=Hello,%20I'm%20Rohit%20Pawar&animation=fadeIn&type=waving&color=0:0f172a,100:1e293b&height=250&section=header&fontSize=60&fontColor=38bdf8&fontAlignY=35" alt="Banner" />
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
-[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://scikit-learn.org/)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+  <!-- Typing Animation -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=38bdf8&center=true&vCenter=true&multiline=true&width=940&height=80&lines=AI+Backend+Engineer+%7C+Machine+Learning+Engineer;Cybersecurity+Developer+%7C+DevOps+Enthusiast;Building+Intelligent+Systems+and+Secure+Architectures" alt="Typing Animation" />
+  </a>
+  
+  <br/>
+  <br/>
 
-**Building Scalable Intelligent Systems | Bridging Data Science & Production Engineering**
-
+  <!-- Visitor Count -->
+  <img src="https://komarev.com/ghpvc/?username=Rohit-Pawar&style=for-the-badge&color=0f172a&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Education-B.Sc_Computer_Science-38bdf8?style=for-the-badge&logo=academic&logoColor=white" alt="Education Badge" />
+  <img src="https://img.shields.io/badge/Status-Open_to_Work-22c55e?style=for-the-badge" alt="Status Badge" />
+  
 </div>
 
 ---
 
-## ** Executive Summary**
+<br/>
+<div align="center">
 
-I am a **Backend Engineer** with a specialized focus on **AI Systems Architecture**. My professional objective is to bridge the critical gap between experimental **Data Science prototypes** and **Production-Grade Software Systems**.
+## 👤 About Me
 
-While many engineers focus solely on model accuracy, I focus on the **entire lifecycle** of the AI application—from how the data is ingested, how the API handles the request, to how the model is served reliably under load.
+</div>
 
-### **Core Value Proposition**
-*   **Scalable Architecture:** I design **stateless, RESTful services** using **FastAPI** and **Flask** that are built to scale.
-*   **ML Integration:** I don't just run notebooks; I embed **Scikit-learn** and **NumPy** models directly into robust backend inference pipelines.
-*   **Clean Code:** I enforce **Clean Architecture principles** to ensure that business logic remains decoupled from infrastructure, ensuring long-term maintainability.
-*   **Production Mindset:** I write code that accounts for **logging, error handling, and latency** from Day 1.
+<div align="justify" style="max-width: 800px; margin: 0 auto; padding: 0 20px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #cbd5e1;">
 
----
+I am a **B.Sc Computer Science** graduate passionate about **AI Backend Engineering, Machine Learning, and Cybersecurity**. With a strong foundation in building scalable backend architectures and intelligent systems, I thrive on solving complex problems at the intersection of security and data.
 
-## ** Technical Expertise**
+My journey includes participating in **10+ Hackathons** with top 10 placements, serving as a **Placement Coordinator**, and consistently ranking as a top performer in my department. I specialize in Python, Java, and Cloud technologies, aiming to build secure, intelligent, and scalable applications.
 
-My technical stack is curated for **High-Performance Backend Engineering** and **Reliable ML Deployment**.
+</div>
 
-### **Languages & Runtimes**
-| Language | Proficiency | Application Context |
+<br/>
+<div align="center">
+
+## 🛠️ Tech Stack
+
+### Languages
+<br/>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript" alt="Languages" />
+<br/><br/>
+
+### Backend & Frameworks
+<br/>
+<img src="https://skillicons.dev/icons?i=flask,django,fastapi,spring,postman" alt="Backend" />
+<br/><br/>
+
+### AI / Machine Learning
+<br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,anaconda" alt="AI/ML" />
+<br/><br/>
+
+### DevOps & Cloud
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,githubactions,linux,bash" alt="DevOps" />
+<br/><br/>
+
+### Databases & Frontend
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,html,css,flutter" alt="DB & Frontend" />
+
+</div>
+
+<br/>
+<div align="center">
+
+## 🏆 Achievements
+
+</div>
+
+<div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+
+  <img src="https://img.shields.io/badge/Hackathons-10%2B-8b5cf6?style=for-the-badge&logo=hack-the-box&logoColor=white" alt="Hackathons">
+  <img src="https://img.shields.io/badge/Top_10_Placements-Winner-f59e0b?style=for-the-badge&logo=trophy&logoColor=white" alt="Top 10">
+  <img src="https://img.shields.io/badge/Placement_Coordinator-Leadership-0ea5e9?style=for-the-badge&logo=people&logoColor=white" alt="Coordinator">
+  <img src="https://img.shields.io/badge/Top_Performer-Department-10b981?style=for-the-badge&logo=star&logoColor=white" alt="Top Performer">
+
+</div>
+
+<br/>
+<div align="center">
+
+## 🔬 Research Interests
+
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-38bdf8?style=flat-square&logo=artificial-intelligence&logoColor=white" alt="AI" />
+  <img src="https://img.shields.io/badge/Deep_Learning-f472b6?style=flat-square&logo=tensorflow&logoColor=white" alt="DL" />
+  <img src="https://img.shields.io/badge/Machine_Learning_Systems-a78bfa?style=flat-square&logo=scikit-learn&logoColor=white" alt="ML Systems" />
+  <img src="https://img.shields.io/badge/Cybersecurity-ef4444?style=flat-square&logo=secure&logoColor=white" alt="Security" />
+  <img src="https://img.shields.io/badge/Cloud_Computing-f97316?style=flat-square&logo=aws&logoColor=white" alt="Cloud" />
+  <img src="https://img.shields.io/badge/Distributed_Systems-84cc16?style=flat-square&logo=network&logoColor=white" alt="Distributed Systems" />
+</p>
+
+<br/>
+<div align="center">
+
+## 🚀 Featured Projects
+
+</div>
+
+<!-- Projects Table -->
+<div align="center">
+
+| Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **Python** | **Expert** | Core backend logic, asynchronous programming, ML model scripting, data manipulation. |
-| **C++** | **Intermediate** | High-performance computing modules, memory management, underlying algorithm logic. |
-| **Java** | **Intermediate** | Enterprise-grade backend services, object-oriented design patterns. |
-| **JavaScript** | **Intermediate** | Frontend interaction logic, basic scripting, API consumption. |
-
-### ** Backend Frameworks & Web**
-*   **FastAPI:** Building **high-performance**, **async** APIs with automatic data validation (Pydantic).
-*   **Flask:** Developing **lightweight**, **modular** microservices with flexible extension support.
-*   **RESTful Architecture:** Designing resource-oriented endpoints with proper HTTP semantics (GET, POST, PUT, DELETE).
-*   **API Integration:** Implementing **Webhooks**, **Authentication (JWT/OAuth)**, and third-party service consumption.
-
-### **Machine Learning & Data Science**
-*   **Frameworks:** **Scikit-learn** (Classification, Regression, Clustering), **NumPy** (Numerical Computing).
-*   **Data Manipulation:** **Pandas** for complex data transformation, cleaning, and analysis.
-*   **NLP:** Text preprocessing, **TF-IDF Vectorization**, tokenization, and sentiment analysis.
-*   **Model Deployment:** Strategies for serving models via **API endpoints**, batch processing, and real-time inference.
-
-### ** Databases & Storage**
-| Technology | Type | Usage |
-| :--- | :--- | :--- |
-| **PostgreSQL** | **Relational (SQL)** | Primary transactional store, complex queries, relational integrity. |
-| **MySQL** | **Relational (SQL)** | Legacy system integration, structured data storage. |
-| **MongoDB** | **NoSQL (Document)** | Storing unstructured data, JSON-like document storage, flexible schemas. |
-| **SQLite** | **Embedded SQL** | Local testing, lightweight mobile/desktop application storage. |
-| **Oracle** | **Enterprise SQL** | Large-scale enterprise data management. |
-
-### ** Development & Infrastructure**
-*   **Version Control:** **Git** & **GitHub** (Branching strategies, Pull Requests, Code Reviews).
-*   **Operating Systems:** **Linux** (Bash scripting, system administration, server management).
-*   **API Testing:** **Postman** (Automated collections, environment variables, integration testing).
-*   **IDE:** **VS Code** (Debugging, extensions, integrated terminal).
-
----
-
-## ** Core Engineering Strengths**
-
-I possess a specific set of strengths that distinguish me from standard backend developers:
-
-> ### **1. API Architecture Design**
-> I specialize in designing **stateless, scalable RESTful services**. My APIs are built with **separation of concerns**, ensuring that routing, validation, and business logic are distinct and testable.
-
-> ### **2. ML Integration & Pipelines**
-> I excel at embedding trained models into backend inference pipelines. I understand the challenges of **serialization** (Pickle/Joblib) and **deserialization** within a web server context.
-
-> ### **3. Data Engineering**
-> Beyond training models, I structure the **data ingestion** and **preprocessing pipelines**. I ensure that the data entering the model matches the format used during training (Data Drift handling).
-
-> ### **4. System Design & Clean Architecture**
-> I apply **Clean Architecture principles** to decouple business logic from external dependencies (Databases, Frameworks). This makes the system testable and independent of UI or database changes.
-
-> ### **5. Performance Optimization**
-> I have a mindset focused on optimizing **database queries** (Indexing, EXPLAIN plans) and minimizing **model inference latency** through caching and efficient data structures.
-
----
-
-## **Production-Grade Projects**
-
-A detailed breakdown of my key engineering contributions.
-
-### **MindScan AI — Intelligent Mental Health Analysis Platform**
-**Role:** Lead Backend Engineer  
-**Tech Stack:** Python, FastAPI, Scikit-learn, Pydantic, Git
-
-#### **Project Overview**
-Designed a **scalable backend system** capable of serving mental health pattern analysis models to real-world users. The primary goal was to create a stable, fault-tolerant interface between raw user input and complex predictive models.
-
-#### **Key Engineering Challenges**
-*   Handling **unstructured user input** reliably.
-*   Ensuring the **ML model** could be updated without redeploying the entire API.
-*   Maintaining strict **data privacy** and validation standards.
-
-#### **Solutions & Architecture**
-*   **Modular Design:** Implemented a strict layer separation:
-    *   **Controller Layer:** Handles HTTP requests/responses.
-    *   **Service Layer:** Contains business logic.
-    *   **ML Layer:** Isolated model inference logic.
-*   **Robust API Design:** Built **structured REST endpoints** using **FastAPI** with **Pydantic models** for strict input validation, preventing malformed data from reaching the model.
-*   **Pipeline Integration:** Encapsulated the **ML pipeline** (Preprocessing + Prediction) within the API service, allowing for **hot-swapping** of model artifacts.
-
-#### **Outcome**
-*   Delivered a **maintainable and extensible backend** capable of handling real-time prediction requests with low latency.
-*   Established a clear pattern for future **AI feature integration**.
-
-
----
-
-# VigilEye — Intelligent Driver Drowsiness Monitoring System
-
-**Role:** Computer Vision Engineer
-**Tech Stack:** Python, OpenCV, MediaPipe Face Mesh, NumPy, Pygame
-
----
-
-## Project Overview
-
-VigilEye is a real-time driver monitoring system engineered to detect early signs of fatigue using geometric facial landmark analysis.
-
-The system leverages MediaPipe Face Mesh for high-precision landmark detection and applies the Eye Aspect Ratio (EAR) algorithm to determine prolonged eye closure. When unsafe thresholds are exceeded, an immediate audible alert is triggered to mitigate accident risk.
-
-Designed for CPU efficiency, portability, and low-latency inference without reliance on heavy deep learning models.
-
----
-
-## Key Engineering Challenges
-
-* **Reliable Real-Time Detection:** Maintaining stable landmark tracking under varying lighting conditions and head movements.
-* **False Positive Reduction:** Differentiating natural blinking from prolonged drowsiness.
-* **Latency Optimization:** Ensuring continuous real-time performance using standard hardware.
-* **State Monitoring:** Tracking eye closure duration accurately across consecutive frames.
-
----
-
-## System Architecture & Design
-
-### Facial Landmark Detection Layer
-
-* Utilized MediaPipe Face Mesh to extract 468 facial landmarks in real time.
-* Isolated specific eye landmark indices for geometric computation.
-* Maintained consistent frame-level detection accuracy on CPU.
-
----
-
-### Eye Aspect Ratio (EAR) Algorithm
-
-* Implemented geometric EAR calculation using six eye landmarks.
-* Established configurable threshold to determine closed-eye state.
-* Designed a timer-based state machine to detect prolonged closure.
-
----
-
-### Alert & Monitoring System
-
-* Integrated Pygame-based audio alert mechanism.
-* Designed persistent alarm loop until driver re-engagement is detected.
-* Implemented on-screen overlays displaying:
-
-  * EAR value
-  * Alert counter
-  * System status
-  * Frames per second (FPS)
-
----
-
-### Event Logging & Configurability
-
-* Automated timestamp-based logging of drowsiness events.
-* Created configurable threshold and duration parameters via constants module.
-* Structured project into modular utilities for maintainability and scalability.
-
----
-
-## Algorithm Workflow
-
-1. Capture webcam frame
-2. Detect face and extract landmarks
-3. Compute Eye Aspect Ratio
-4. Compare EAR against threshold
-5. Track consecutive low-EAR duration
-6. Trigger alarm if duration exceeds defined limit
-
----
-
-## Outcome
-
-* Delivered a functional real-time fatigue detection system.
-* Demonstrated applied computer vision and geometric modeling expertise.
-* Achieved low-latency inference suitable for standard CPU environments.
-* Built a modular and extensible architecture ready for feature expansion (e.g., yawning detection, head pose estimation).
-
----
-
-
----
-
-### **Movie Genre Classification Engine — NLP System**
-**Role:** ML Backend Engineer  
-**Tech Stack:** Python, Scikit-learn, NLTK, NumPy, Flask
-
-#### **Project Overview**
-Developed a high-performance **Text Classification Engine** focused on processing and categorizing unstructured movie plot data into distinct genres.
-
-#### **Key Engineering Challenges**
-*   Converting unstructured text into **numerical features**.
-*   Handling the **"Curse of Dimensionality"** in text data.
-*   Achieving **low latency** for real-time classification.
-
-#### **Solutions & Architecture**
-*   **End-to-End NLP Pipeline:**
-    *   **Tokenization & Lemmatization:** Used **NLTK** to break down text into root words.
-    *   **Vectorization:** Implemented **TF-IDF (Term Frequency-Inverse Document Frequency)** to convert text into a sparse matrix of features.
-*   **Model Implementation:** Integrated a **Naive Bayes Classifier**, chosen specifically for its high performance in text classification tasks and independence assumptions.
-*   **Optimization:** Refined the preprocessing logic to filter out **stop words** and noise, significantly improving **classification reliability** and accuracy.
-
-#### **Outcome**
-*   A functional inference engine that transforms raw text into categorical data.
-*   Optimized for **low latency**, making it suitable for integration into content recommendation systems.
-
----
-
-
-### ** Credit Card Fraud Detection — Financial Risk Intelligence**
-**Role:** Data Engineer & Backend Developer  
-**Tech Stack:** Python, Pandas, Scikit-learn, Matplotlib
-
-#### **Project Overview**
-Built a critical **Risk Analysis System** focused on identifying anomalous patterns in financial transaction data to prevent fraud.
-
-#### **Key Engineering Challenges**
-*   **Severe Class Imbalance:** Fraudulent transactions are extremely rare compared to legitimate ones.
-*   **Cost of Errors:** False negatives (missing fraud) are expensive; False positives (blocking real users) hurt user experience.
-*   **Data Privacy:** Handling sensitive financial data securely.
-
-#### **Solutions & Architecture**
-*   **Advanced Data Handling:** Addressed **class imbalance** using **SMOTE (Synthetic Minority Over-sampling Technique)** and specific feature engineering to make the minority class more visible to the model.
-*   **Rigorous Evaluation:** Implemented a validation framework focusing on **Precision, Recall, and F1-Score** rather than just Accuracy, to ensure the model minimized false positives.
-*   **System Reliability:** Designed the inference logic to output a **risk probability score**, allowing human reviewers to step in for high-stakes decisions.
-
-#### **Outcome**
-*   A robust predictive architecture capable of flagging potential fraud for immediate review.
-*   Demonstrated ability to handle **highly imbalanced datasets** common in the financial sector.
-
----
-
-
----
-
-#  **SAP-Inspired ERP System — Enterprise Business Intelligence Platform**
-
-**Role:** Full-Stack ERP Engineer
-**Tech Stack:** Python, Django, SQLite, Bootstrap, Chart.js
-
----
-
-## **Project Overview**
-
-Engineered a modular **Enterprise Resource Planning (ERP) System** inspired by modern enterprise architectures such as **SAP S/4HANA**.
-
-The platform simulates real-world business workflows across Finance, Sales, Inventory, and HR — unified through a centralized transactional database and analytics dashboard.
-
----
-
-## **Key Engineering Challenges**
-
-* **Cross-Module Data Consistency:** Ensuring transactions in Sales automatically impact Inventory and Finance modules.
-* **Transactional Workflow Simulation:** Designing order-to-billing and stock deduction pipelines similar to enterprise ERP systems.
-* **Real-Time KPI Aggregation:** Generating performance metrics dynamically from relational data.
-* **Scalability & Maintainability:** Structuring the project to mimic modular enterprise architecture.
-
----
-
-## **Solutions & Architecture**
-
-### 🔹 Modular Domain-Driven Design
-
-Implemented independent Django apps for:
-
-* Finance
-* Sales & Distribution
-* Inventory Management
-* Human Resources
-
-Each module follows clean separation of concerns (Models → Services → Views → Templates).
-
----
-
-### 🔹 Relational Data Architecture
-
-Designed normalized database schema with:
-
-* Foreign key relationships to simulate transactional dependencies
-* Optimized ORM queries for efficient aggregation
-* Centralized business logic handling financial calculations
-
----
-
-### 🔹 Business Logic Engine
-
-* Automated revenue & expense calculations in Finance module
-* Real-time stock deduction upon order confirmation
-* Payroll and employee record management system
-* KPI computation layer for dashboard analytics
-
----
-
-### 🔹 Analytics & Visualization Layer
-
-Integrated Chart.js to visualize:
-
-* Revenue trends
-* Sales performance
-* Inventory movement
-* Employee statistics
-
-Built dynamic dashboards with low-latency query execution.
-
----
-
-## **Outcome**
-
-* Developed a functional ERP simulation reflecting enterprise-grade system design
-* Demonstrated understanding of modular architecture and transactional workflows
-* Built scalable backend capable of future API and AI integration
-* Portfolio-ready enterprise-style application
-
----
-
-
-
-## **Engineering Philosophy**
-
-I view software engineering not just as writing code, but as managing **complexity** and **trade-offs**.
-
-> **Modularity over Monoliths**
-> I believe in building systems that are composed of small, loosely coupled modules. This makes the system **easy to test, debug, and extend** without breaking existing functionality.
-
-> **Pragmatism over Hype**
-> I prioritize choosing the **right tool for the specific problem**. I do not use complex distributed systems when a simple script will suffice, nor do I ignore scalability when the user base demands it.
-
-> **Production-First Thinking**
-> Code that runs on my laptop is not enough. I write code that accounts for **logging, monitoring, error handling, and edge cases** from Day 1. If it can't be deployed, it's not done.
-
-> **Bridging the Gap**
-> My goal is to ensure that **ML models** are not just static files sitting in a notebook, but **deployable software components** that add value to the end user via a robust API.
-
----
-
-## **Professional Positioning**
-
-### **Target Role:** AI Backend Engineer
-
-I am uniquely positioned to join engineering teams that are looking to **operationalize machine learning**. Unlike a pure Data Scientist who focuses on math, or a pure Backend Developer who may not understand model lifecycles, I possess the hybrid skill set to:
-
-1.  **Design the API** that serves the model.
-2.  **Process the data** that feeds the model.
-3.  **Optimize the infrastructure** that runs the model.
-
-I am ready to contribute to **Product Companies** and **Scale-ups** that require reliable, intelligent software solutions.
-
----
+| **CoreFlow ERP** | Enterprise ERP platform inspired by SAP integrating finance, inventory, and sales. | Python, Flask, PostgreSQL |
+| **Enterprise Credit Risk** | ML-based loan risk prediction platform using XGBoost and Random Forest. | Python, XGBoost, Pandas, Scikit-learn |
+| **VigilEye** | Real-time driver drowsiness detection system. | Python, OpenCV, MediaPipe |
+| **SentinelScan** | Cybersecurity network scanning and port detection tool. | Python, Sockets, Bash |
+| **MindGuard AI** | AI-powered mental health analytics dashboard. | NLP, TensorFlow, React |
+| **CreditSathi** | MSME financial health and loan readiness platform. | Django, SQLite, Data Analytics |
+| **NeuralScript** | Character-level deep learning text generation system. | PyTorch, NLTK, RNN |
+| **Real-Time Java Chat** | Java socket-based real-time messaging system. | Java, Networking, Swing |
+| **RFID Attendance** | Flask-based RFID attendance tracking system. | Flask, SQLite, Hardware IoT |
+| **Cloud Data Protection** | Security system with encryption and authentication. | AWS, Python, Cryptography |
+| **SpamGuard ML** | Machine learning-based SMS spam detection system. | Scikit-learn, NLP, Naive Bayes |
+| **QuickAssist AI** | AI-powered chatbot built using Flask. | NLP, Flask, REST APIs |
+| **Customer Churn Prediction** | ML system predicting customer churn for retention. | Python, Logistic Regression, Matplotlib |
+| **Movie Genre Classification** | NLP based application for classifying movie genres. | NLTK, Scikit-learn, Pandas |
+| **Credit Card Fraud Detection** | Fraud detection system using machine learning. | Python, Random Forest, Imbalanced Learning |
+| **Cloud Bus Pass System** | Flask-based transportation pass management platform. | Flask, Cloud Hosting, SQL |
+| **Cloud Data Redundancy** | Web application preventing duplicate cloud data storage. | Algorithms, Web Development, DBMS |
+| **Weather Prediction App** | Modern web application displaying real-time weather data. | HTML, CSS, JS, OpenWeather API |
+
+</div>
+
+<br/>
+<div align="center">
+
+## 📊 GitHub Analytics
+
+</div>
+
+<div align="center">
+  <!-- GitHub Stats Card -->
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Rohit-Pawar&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8&text_color=cbd5e1" alt="GitHub Stats" />
+  <!-- GitHub Streak -->
+  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rohit-Pawar&theme=midnight-purple&hide_border=true&background=0f172a&stroke=38bdf8&ring=38bdf8&fire=38bdf8&currStreakNum=cbd5e1&sideNums=cbd5e1" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<!-- GitHub Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rohit-Pawar&theme=midnight-purple&bg_color=0f172a&color=38bdf8&line=38bdf8&point=ffffff&hide_border=true" alt="Activity Graph" />
+</div>
+
+<br/>
+<div align="center">
+
+## 🐍 Contribution Snake
+
+<!-- Make sure to setup the workflow for the snake to work -->
+<img src="https://raw.githubusercontent.com/Rohit-Pawar/Rohit-Pawar/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+
+</div>
+
+<br/>
+<div align="center">
+
+## 🤝 Connect With Me
+
+</div>
+
+<p align="center">
+  <a href="https://github.com/Rohit-Pawar" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://linkedin.com/in/rohitpawar" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:rohit.pawar@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://twitter.com/rohitpawar" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+</p>
+
+<br/>
+<div align="center">
+
+## 💬 Professional Quote
+
+</div>
+
+<div align="center">
+  <i>
+    "The best way to predict the future is to invent it. Building intelligent systems today secures the innovations of tomorrow."
+  </i>
+</div>
+
+<br/>
 
 <div align="center">
 
-## ** Let's Connect**
-
-I am always open to discussing **System Design**, **Backend Architecture**, and **AI Integration**.
-
-   **GitHub:** https://github.com/rohitpawar-tech
-  **LinkedIn:** https://www.linkedin.com/in/rohit-pawar-54132a246/
-  **Email:** pawarrohit.x@gmail.com
-
-***
-
-**"Code is written for humans, not just machines."**
+  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:0f172a,100:1e293b&height=100" alt="Footer" />
 
 </div>
+```
