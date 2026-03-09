@@ -12,8 +12,10 @@
   <br/>
   <br/>
 
-  <!-- Visitor Count -->
+  <!-- Badges -->
   <img src="https://komarev.com/ghpvc/?username=Rohit-Pawar&style=for-the-badge&color=0f172a&label=PROFILE+VIEWS" alt="Profile Views" />
+  <!-- 500+ Contribution Badge Added Here -->
+  <img src="https://img.shields.io/badge/Contributions-500%2B-success?style=for-the-badge&logo=github&logoColor=white" alt="Contributions" />
   <img src="https://img.shields.io/badge/Education-B.Sc_Computer_Science-38bdf8?style=for-the-badge&logo=academic&logoColor=white" alt="Education Badge" />
   <img src="https://img.shields.io/badge/Status-Open_to_Work-22c55e?style=for-the-badge" alt="Status Badge" />
   
@@ -205,4 +207,3 @@ My journey includes participating in **10+ Hackathons** with top 10 placements, 
   <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:0f172a,100:1e293b&height=100" alt="Footer" />
 
 </div>
-
