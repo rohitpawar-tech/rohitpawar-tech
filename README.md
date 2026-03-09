@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
 
   <!-- Animated Banner -->
@@ -205,4 +205,4 @@ My journey includes participating in **10+ Hackathons** with top 10 placements, 
   <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:0f172a,100:1e293b&height=100" alt="Footer" />
 
 </div>
-```
+
