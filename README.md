@@ -1,14 +1,12 @@
 
-
-
 <div align="center">
 
   <!-- Animated Banner -->
-  <img src="https://capsule-render.vercel.app/api?text=Placement%20RAG%20Assistant&animation=fadeIn&type=waving&color=0:0f172a,100:1e293b&height=250&section=header&fontSize=60&fontColor=38bdf8&fontAlignY=35" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?text=Hello,%20I'm%20Rohit%20Pawar&animation=fadeIn&type=waving&color=0:0f172a,100:1e293b&height=250&section=header&fontSize=60&fontColor=38bdf8&fontAlignY=35" alt="Banner" />
 
   <!-- Typing Animation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=38bdf8&center=true&vCenter=true&multiline=true&width=940&height=80&lines=Backend+AI+Engineer+%7C+Full+Stack+Developer;Machine+Learning+Enthusiast+%7C+AWS+%7C+Generative+AI;Building+Intelligent+Systems+for+Placement+Preparation" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=38bdf8&center=true&vCenter=true&multiline=true&width=940&height=80&lines=AI+Backend+Engineer+%7C+Machine+Learning+Engineer;Cybersecurity+Developer+%7C+DevOps+Enthusiast;Building+Intelligent+Systems+and+Secure+Architectures" alt="Typing Animation" />
   </a>
   
   <br/>
@@ -16,10 +14,11 @@
 
   <!-- Badges -->
   <img src="https://komarev.com/ghpvc/?username=Rohit-Pawar&style=for-the-badge&color=0f172a&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Status-Production_Ready-success?style=for-the-badge" alt="Status" />
-  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License" />
-  <img src="https://img.shields.io/badge/Platform-AWS%20%7C%20Render-blue?style=for-the-badge" alt="Platform" />
-
+  <!-- 500+ Contribution Badge Added Here -->
+  <img src="https://img.shields.io/badge/Contributions-500%2B-success?style=for-the-badge&logo=github&logoColor=white" alt="Contributions" />
+  <img src="https://img.shields.io/badge/Education-B.Sc_Computer_Science-38bdf8?style=for-the-badge&logo=academic&logoColor=white" alt="Education Badge" />
+  <img src="https://img.shields.io/badge/Status-Open_to_Work-22c55e?style=for-the-badge" alt="Status Badge" />
+  
 </div>
 
 ---
@@ -27,196 +26,112 @@
 <br/>
 <div align="center">
 
-## 📖 About The Project
-
-</div>
-
-<div align="justify" style="max-width: 900px; margin: 0 auto; padding: 0 20px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #cbd5e1;">
-
-The **Placement RAG Assistant** is an advanced Retrieval-Augmented Generation (RAG) platform designed to bridge the gap between study materials and effective interview preparation.
-
-Developed by **Rohit Pawar**, an AI/ML and Backend Engineering enthusiast, this project aims to solve the common problem students face: scattered information. By leveraging Generative AI and Vector Databases, this application allows users to upload documents (PDFs, TXT, DOCX) and ask context-aware questions, receive real-time feedback on their resumes, and practice with mock interviews.
-
-It integrates **FastAPI** for robust backend performance, **LangChain** for logic, **Google Gemini** for intelligence, and **FAISS** for semantic search.
-
-</div>
-
-<br/>
-<div align="center">
-
-## ✨ Key Features
-
-*   🤖 **AI Chat Assistant:** Context-aware RAG pipeline that answers questions based on your uploaded study notes and documents.
-*   📄 **Resume Analyzer:** ATS (Applicant Tracking System) scoring, skill extraction, and actionable improvement suggestions.
-*   🎤 **Mock Interview System:** Generates role-specific technical and HR questions to help you prepare.
-*   ☁️ **Document Management:** Ingests and indexes files using Vector Embeddings for fast retrieval.
-*   🎨 **Modern UI:** A Glassmorphism user interface built with vanilla HTML/CSS/JS.
-
-</div>
-
-<br/>
-<div align="center">
-
-## 🛠 Tech Stack
-
-### Backend
-<br/>
-<img src="https://skillicons.dev/icons?i=python,fastapi,langchain,postgresql,docker,git" alt="Backend" />
-
-### AI & Database
-<br/>
-<img src="https://skillicons.dev/icons?i=googlecloud,faiss,tensorflow,numpy,pandas" alt="AI/DB" />
-
-### Frontend
-<br/>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,vscode" alt="Frontend" />
-
-### DevOps & Cloud
-<br/>
-<img src="https://skillicons.dev/icons?i=aws,nginx,githubactions,linux,bash" alt="DevOps" />
-
-</div>
-
-<br/>
-<div align="center">
-
-## 📸 Project Screenshots
-
-*(Add images of your project here)*
-
-![Alt Text](https://via.placeholder.com/400x250?text=Chat+Interface)
-![Alt Text](https://via.placeholder.com/400x250?text=Dashboard)
-![Alt Text](https://via.placeholder.com/400x250?text=Resume+Analyzer)
-
-</div>
-
-<br/>
-<div align="center">
-
-## 🚀 Installation & Setup
-
-### Option 1: Docker (Recommended)
-
-This is the easiest way to run the full stack.
-
-1.  **Clone the repository:**
-    ```bash
-    git clone https://github.com/Rohit-Pawar/placement-rag-assistant.git
-    cd placement-rag-assistant/backend
-    ```
-
-2.  **Environment Variables:**
-    Create a `.env` file in the `backend` folder:
-    ```ini
-    GOOGLE_API_KEY=your_google_gemini_api_key
-    DATABASE_URL=postgresql+asyncpg://postgres:password@db:5432/placement_db
-    SECRET_KEY=your_secret_key
-    ```
-
-3.  **Run:**
-    ```bash
-    docker-compose up --build
-    ```
-
-### Option 2: Local Development
-
-1.  **Dependencies:**
-    ```bash
-    cd backend
-    pip install -r requirements.txt
-    pip install "bcrypt<4.0.0" # Required for Windows compatibility
-    pip install aiosqlite
-    ```
-
-2.  **Database:**
-    Update `.env` for local SQLite:
-    ```ini
-    DATABASE_URL=sqlite+aiosqlite:///./placement.db
-    ```
-
-3.  **Create User:**
-    ```bash
-    python -c "from app.core.database import SessionLocal; from app.models.models import User; from app.core.security import get_password_hash; db = SessionLocal(); u = User(full_name='Demo', email='demo@user.com', password_hash=get_password_hash('password')); db.add(u); db.commit(); print('User Created!'); db.close()"
-    ```
-
-4.  **Run:**
-    ```bash
-    python -m app.main
-    ```
-
-</div>
-
-<br/>
-<div align="center">
-
-## 👨‍💻 Author & Developer
+## 👤 About Me
 
 </div>
 
 <div align="justify" style="max-width: 800px; margin: 0 auto; padding: 0 20px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #cbd5e1;">
 
-<strong>Rohit Pawar</strong> is a Computer Science undergraduate specializing in AI/ML, Backend Engineering, and Cloud Technologies. With hands-on experience in **Python, FastAPI, AWS**, and **Generative AI**, he builds intelligent systems that solve real-world problems.
+I am a **B.Sc Computer Science** graduate passionate about **AI Backend Engineering, Machine Learning, and Cybersecurity**. With a strong foundation in building scalable backend architectures and intelligent systems, I thrive on solving complex problems at the intersection of security and data.
 
-**Connect:**
-*   📍 **Location:** Nashik, Maharashtra, India
-*   📧 **Email:** pawarrohit.x@gmail.com
-*   🔗 **LinkedIn:** [linkedin.com/in/rohitpawar](https://linkedin.com/in/rohitpawar-54132a246)
-*   🐙 **GitHub:** [Rohit-Pawar](https://github.com/Rohit-Pawar)
+My journey includes participating in **10+ Hackathons** with top 10 placements, serving as a **Placement Coordinator**, and consistently ranking as a top performer in my department. I specialize in Python, Java, and Cloud technologies, aiming to build secure, intelligent, and scalable applications.
 
 </div>
 
 <br/>
 <div align="center">
 
-## 🎓 Certifications & Achievements
+## 🛠️ Tech Stack
 
-</div>
+### Languages
+<br/>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript" alt="Languages" />
+<br/><br/>
 
-<div align="center">
-  <!-- Tech Stack Icons used as Badges -->
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 10px; max-width: 800px;">
-    <div class="glass-panel" style="background: rgba(30, 41, 59, 0.5); padding: 10px; border-radius: 8px;">
-      <strong>CSS3</strong>
-      <div style="font-size: 12px; color: #94a3b8;">Styling and Responsive Web Design</div>
-    </div>
-    <div class="glass-panel" style="background: rgba(30, 41, 59, 0.5); padding: 10px; border-radius: 8px;">
-      <strong>Python Programming</strong>
-      <div style="font-size: 12px; color: #94a3b8;">Introduction to Programming</div>
-    </div>
-    <div class="glass-panel" style="background: rgba(30, 41, 59, 0.5); padding: 10px; border-radius: 8px;">
-      <strong>AI Adventure</strong>
-      <div style="font-size: 12px; color: #94a3b8;">Artificial Intelligence</div>
-    </div>
-    <div class="glass-panel" style="background: rgba(30, 41, 59, 0.5); padding: 10px; border-radius: 8px;">
-      <strong>1-Week AI Training</strong>
-      <div style="font-size: 12px; color: #94a3b8;">Intensive Bootcamp</div>
-    </div>
-  </div>
-</div>
+### Backend & Frameworks
+<br/>
+<img src="https://skillicons.dev/icons?i=flask,django,fastapi,spring,postman" alt="Backend" />
+<br/><br/>
 
-<div align="center" style="margin-top: 20px;">
-  <img src="https://img.shields.io/badge/Hackathons-10%2B-8b5cf6?style=for-the-badge" alt="Hackathons">
-  <img src="https://img.shields.io/badge/Placement_Coordinator-Leadership-0ea5e9?style=for-the-badge" alt="Coordinator">
-  <img src="https://img.shields.io/badge/Top_Performer-Department-10b981?style=for-the-badge" alt="Top Performer">
+### AI / Machine Learning
+<br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,anaconda" alt="AI/ML" />
+<br/><br/>
+
+### DevOps & Cloud
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,githubactions,linux,bash" alt="DevOps" />
+<br/><br/>
+
+### Databases & Frontend
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,html,css,flutter" alt="DB & Frontend" />
+
 </div>
 
 <br/>
 <div align="center">
 
-## 🔗 Quick Links
+## 🏆 Achievements
 
 </div>
 
+<div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+
+  <img src="https://img.shields.io/badge/Hackathons-10%2B-8b5cf6?style=for-the-badge&logo=hack-the-box&logoColor=white" alt="Hackathons">
+  <img src="https://img.shields.io/badge/Top_10_Placements-Winner-f59e0b?style=for-the-badge&logo=trophy&logoColor=white" alt="Top 10">
+  <img src="https://img.shields.io/badge/Placement_Coordinator-Leadership-0ea5e9?style=for-the-badge&logo=people&logoColor=white" alt="Coordinator">
+  <img src="https://img.shields.io/badge/Top_Performer-Department-10b981?style=for-the-badge&logo=star&logoColor=white" alt="Top Performer">
+
+</div>
+
+<br/>
 <div align="center">
-  <a href="https://github.com/Rohit-Pawar" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://linkedin.com/in/rohitpawar" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:pawarrohit.x@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
+
+## 🔬 Research Interests
+
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-38bdf8?style=flat-square&logo=artificial-intelligence&logoColor=white" alt="AI" />
+  <img src="https://img.shields.io/badge/Deep_Learning-f472b6?style=flat-square&logo=tensorflow&logoColor=white" alt="DL" />
+  <img src="https://img.shields.io/badge/Machine_Learning_Systems-a78bfa?style=flat-square&logo=scikit-learn&logoColor=white" alt="ML Systems" />
+  <img src="https://img.shields.io/badge/Cybersecurity-ef4444?style=flat-square&logo=secure&logoColor=white" alt="Security" />
+  <img src="https://img.shields.io/badge/Cloud_Computing-f97316?style=flat-square&logo=aws&logoColor=white" alt="Cloud" />
+  <img src="https://img.shields.io/badge/Distributed_Systems-84cc16?style=flat-square&logo=network&logoColor=white" alt="Distributed Systems" />
+</p>
+
+<br/>
+<div align="center">
+
+## 🚀 Featured Projects
+
+</div>
+
+<!-- Projects Table -->
+<div align="center">
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **CoreFlow ERP** | Enterprise ERP platform inspired by SAP integrating finance, inventory, and sales. | Python, Flask, PostgreSQL |
+| **Enterprise Credit Risk** | ML-based loan risk prediction platform using XGBoost and Random Forest. | Python, XGBoost, Pandas, Scikit-learn |
+| **VigilEye** | Real-time driver drowsiness detection system. | Python, OpenCV, MediaPipe |
+| **SentinelScan** | Cybersecurity network scanning and port detection tool. | Python, Sockets, Bash |
+| **MindGuard AI** | AI-powered mental health analytics dashboard. | NLP, TensorFlow, React |
+| **CreditSathi** | MSME financial health and loan readiness platform. | Django, SQLite, Data Analytics |
+| **NeuralScript** | Character-level deep learning text generation system. | PyTorch, NLTK, RNN |
+| **Real-Time Java Chat** | Java socket-based real-time messaging system. | Java, Networking, Swing |
+| **RFID Attendance** | Flask-based RFID attendance tracking system. | Flask, SQLite, Hardware IoT |
+| **Cloud Data Protection** | Security system with encryption and authentication. | AWS, Python, Cryptography |
+| **SpamGuard ML** | Machine learning-based SMS spam detection system. | Scikit-learn, NLP, Naive Bayes |
+| **QuickAssist AI** | AI-powered chatbot built using Flask. | NLP, Flask, REST APIs |
+| **Customer Churn Prediction** | ML system predicting customer churn for retention. | Python, Logistic Regression, Matplotlib |
+| **Movie Genre Classification** | NLP based application for classifying movie genres. | NLTK, Scikit-learn, Pandas |
+| **Credit Card Fraud Detection** | Fraud detection system using machine learning. | Python, Random Forest, Imbalanced Learning |
+| **Cloud Bus Pass System** | Flask-based transportation pass management platform. | Flask, Cloud Hosting, SQL |
+| **Cloud Data Redundancy** | Web application preventing duplicate cloud data storage. | Algorithms, Web Development, DBMS |
+| **Weather Prediction App** | Modern web application displaying real-time weather data. | HTML, CSS, JS, OpenWeather API |
+
 </div>
 
 <br/>
@@ -227,13 +142,15 @@ This is the easiest way to run the full stack.
 </div>
 
 <div align="center">
+  <!-- GitHub Stats Card -->
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Rohit-Pawar&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8&text_color=cbd5e1" alt="GitHub Stats" />
+  <!-- GitHub Streak -->
   <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rohit-Pawar&theme=midnight-purple&hide_border=true&background=0f172a&stroke=38bdf8&ring=38bdf8&fire=38bdf8&currStreakNum=cbd5e1&sideNums=cbd5e1" alt="GitHub Streak" />
 </div>
 
 <br/>
 
-<!-- Activity Graph -->
+<!-- GitHub Activity Graph -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rohit-Pawar&theme=midnight-purple&bg_color=0f172a&color=38bdf8&line=38bdf8&point=ffffff&hide_border=true" alt="Activity Graph" />
 </div>
@@ -243,40 +160,50 @@ This is the easiest way to run the full stack.
 
 ## 🐍 Contribution Snake
 
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Rohit-Pawar/Rohit-Pawar/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</div>
-
-<br/>
-<div align="center">
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+<!-- Make sure to setup the workflow for the snake to work -->
+<img src="https://raw.githubusercontent.com/Rohit-Pawar/Rohit-Pawar/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 
 </div>
 
 <br/>
+<div align="center">
+
+## 🤝 Connect With Me
+
+</div>
+
+<p align="center">
+  <a href="https://github.com/Rohit-Pawar" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://linkedin.com/in/rohitpawar" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:rohit.pawar@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://twitter.com/rohitpawar" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+</p>
+
+<br/>
+<div align="center">
+
+## 💬 Professional Quote
+
+</div>
+
+<div align="center">
+  <i>
+    "The best way to predict the future is to invent it. Building intelligent systems today secures the innovations of tomorrow."
+  </i>
+</div>
+
+<br/>
+
 <div align="center">
 
   <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:0f172a,100:1e293b&height=100" alt="Footer" />
 
 </div>
-```
-
-### CSS Style for Glassmorphism (Optional Add-on)
-
-The certifications section above uses a class `glass-panel`. To make it look good (since we don't have a separate CSS file here), add this style block at the top of your `README.md` file to ensure the cards look nice if Markdown HTML is rendered:
-
-```html
-<style>
-.glass-panel {
-  background: rgba(30, 41, 59, 0.5); 
-  backdrop-filter: blur(10px); 
-  border: 1px solid rgba(255, 255, 255, 0.1); 
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
-}
-</style>
-```
