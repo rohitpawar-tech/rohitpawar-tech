@@ -1,6 +1,4 @@
-Here is the updated `README.md`. I have merged the **Project Specifics** (Placement RAG Assistant) with your **Personal Profile** (Resume details) to create a comprehensive portfolio-style README for this specific repository.
 
-Save this as `README.md` in your root folder.
 
 ```markdown
 <div align="center">
