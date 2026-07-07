@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/Education-B.Sc_Computer_Science-38bdf8?style=for-the-badge&logo=academic&logoColor=white" alt="Education Badge" />
   <img src="https://img.shields.io/badge/Status-Open_to_Work-22c55e?style=for-the-badge" alt="Status Badge" />
   
-</div>
+</div>   
 
 ---
 
