@@ -179,7 +179,7 @@ My journey includes participating in **10+ Hackathons** with top 10 placements, 
   <a href="https://linkedin.com/in/rohitpawar" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:rohit.pawar@example.com" target="_blank">
+  <a href="mailto:pawarrohit.x.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://twitter.com/rohitpawar" target="_blank">
