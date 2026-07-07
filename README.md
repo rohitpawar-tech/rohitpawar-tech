@@ -155,7 +155,7 @@ My journey includes participating in **10+ Hackathons** with top 10 placements, 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rohit-Pawar&theme=midnight-purple&bg_color=0f172a&color=38bdf8&line=38bdf8&point=ffffff&hide_border=true" alt="Activity Graph" />
 </div>
 
-<br/>
+<br/> 
 <div align="center">
 
 ## 🐍 Contribution Snake
