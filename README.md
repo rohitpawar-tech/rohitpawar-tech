@@ -3,7 +3,7 @@
  
   <!-- Animated Banner -->
   <img src="https://capsule-render.vercel.app/api?text=Hello,%20I'm%20Rohit%20Pawar&animation=fadeIn&type=waving&color=0:0f172a,100:1e293b&height=250&section=header&fontSize=60&fontColor=38bdf8&fontAlignY=35" alt="Banner" />
-
+ 
   <!-- Typing Animation -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=38bdf8&center=true&vCenter=true&multiline=true&width=940&height=80&lines=AI+Backend+Engineer+%7C+Machine+Learning+Engineer;Cybersecurity+Developer+%7C+DevOps+Enthusiast;Building+Intelligent+Systems+and+Secure+Architectures" alt="Typing Animation" />
