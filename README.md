@@ -1,5 +1,5 @@
 
-<div align="center">
+<div align="center">    
  
   <!-- Animated Banner -->
   <img src="https://capsule-render.vercel.app/api? text=Hello,%20I'm%20Rohit%20Pawar&animation=fadeIn&type=waving&color=0:0f172a,100:1e293b&height=250&section=header&fontSize=60&fontColor=38bdf8&fontAlignY=35" alt="Banner" />
